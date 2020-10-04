@@ -1,8 +1,9 @@
 # Webpack babel Rick Morty
 
+![made-with-javascript](https://img.shields.io/badge/%20Made%20with%20-JavaScript-yellow)
+
 Web that show characters of Rick and Morty series.
 
-![made-with-javascript](https://img.shields.io/badge/%20Made%20with%20-JavaScript-yellow)
 ![](https://imgur.com/EPYJJ5l.gif)
 
 ## Starting 🚀
